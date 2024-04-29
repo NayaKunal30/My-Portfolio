@@ -20,8 +20,8 @@ I am a frontend and UI developer passionate about crafting beautiful and functio
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/your-username/portfolio.git`
-2. Navigate to the project directory: `cd portfolio`
+1. Clone the repository: `git clone https://github.com/NayaKunal30/My-Portfolio.git`
+2. Navigate to the project directory: `cd My-Portfolio`
 3. Open `index.html` in your preferred web browser.
 
 ## How to Use
@@ -41,5 +41,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any inquiries or collaborations, feel free to reach out to me at kunalnayak3004@gmail.com (mailto: kunalnayak3004@gmail.com).
-
+For any inquiries or collaborations, feel free to reach out to me at kunalnayak3004@gmail.com

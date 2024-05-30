@@ -44,7 +44,7 @@ body {
  
 .heading span {
   font-size: var(--p-font);
-  color: rgba(21, 255, 0, 0.836);
+  color: rgba(184, 0, 204, 0.836);
 }
 header {
   position: fixed;
@@ -218,7 +218,7 @@ span {
   bottom: 0;
   left: 0;
   height: 0.5rem;
-  background:rgb(60, 255, 0);
+  background:rgb(139, 241, 158);
   border-radius: 0.5rem;
 }
 .html-bar {
@@ -317,7 +317,7 @@ textarea {
   width: 100%;
   border: none;
   outline: none;
-  background: hsla(260, 100%, 44%, 0.1);
+  background: hsla(311, 65%, 54%, 0.1);
   margin-bottom: 1rem;
   color: var(--text-color);
 }
